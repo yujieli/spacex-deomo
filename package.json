@@ -8,8 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.20",
+    "axios": "^1.4.0",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "moment": "^2.29.4",
+    "qs": "^6.11.2",
+    "vue": "^3.2.13",
+    "vue-router": "^4.2.2",
+    "youtube-iframe": "^1.0.3",
+    "youtube-player": "^5.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
